@@ -1,4 +1,7 @@
 first test file
 
 
+main message
+
+
 rental message
