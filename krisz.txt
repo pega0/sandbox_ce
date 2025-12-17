@@ -8,4 +8,7 @@ second commit
 modified
 change
 
+
+last line
+
 my new modification
