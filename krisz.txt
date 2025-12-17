@@ -7,3 +7,5 @@ main message
 second commit
 modified
 change
+
+my new modification
